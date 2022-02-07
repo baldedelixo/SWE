@@ -1,0 +1,2 @@
+# SWE
+SNES Web Emulator
